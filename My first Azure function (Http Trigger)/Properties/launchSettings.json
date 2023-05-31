@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "My_first_Azure_function__Http_Trigger_": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7067"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 33811,
+      "useSSL": false
+    }
+  }
+}
